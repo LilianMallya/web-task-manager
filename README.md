@@ -1,4 +1,4 @@
-# 🚀 Productivity Suite (React Application)
+# 🚀 Task Manager (React Application)
 
 A comprehensive productivity platform with task management, habit tracking, and collaboration features.
 
